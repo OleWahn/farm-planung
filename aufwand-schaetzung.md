@@ -1,40 +1,38 @@
-# Aufwandschätzung
-## Analyse und Planung
-- [ ] Analyse aktuelle Datenmodelle
-- [ ] Entwicklung neues Datenmodell
-- [ ] Gestaltungsentwurf UI (Annahme: Aktuelle Designs mit minimal nötigen Anpassung) 
-- [ ] Recherche Umsetzbarkeit Shopsystem (Annahme: Shopify)
-- [ ] Recherche zusätzliche Plugins
-- [ ] 
+# Aufwandschätzung 
+Aufwände in Mann-Tagen
+## Analyse und Planung (6)
+- [ ] Entwicklung neues Datenmodell  **5**
+- [ ] Gestaltungsentwurf UI (Annahme: Aktuelle Designs mit minimal nötigen Anpassung) **0**
+- [ ] Recherche Umsetzbarkeit Shopsystem (Annahme: Shopify) **0**
+- [ ] Recherche zusätzliche Plugins **1**
+ 
+## Aufsetzen Shop (23 + TBD)
+- [ ] Infrastruktur & Technische Einstellungen **Summe: 4**
+   - [ ] Account einrichten (Annahme: Hosted) **1**
+   - [ ] Multiple Stores/Domains (Annahme für Übergangsphase: Separate Domains für Kerkow und MkF) **1**
+   - [ ] Migration Settings (Annahme: Durchführung durch die Michaels) **1**
+   - [ ] Migration Kundendaten (Annahmne: Kunden legen selbst neues Konto an) **0**
+   - [ ] Migration Content **1**
+- [ ] Installation Plugins (Annahme: Prüfen auf aktuellere Version, Einrichtung Konto) **Summe: 6**
+   - [ ] Versand (Parcelify, DHlExpress, DHLPost, Angel) **1**
+   - [ ] Bezahlung (ShopifyPayments, Paypal) **1**
+   - [ ] DSGVO (Concentsmo GDPR) **1**
+   - [ ] Produktbewertung (ProductReviews) **1**
+   - [ ] Fulfilment (OrderPrinter) **1**
+   - [ ] Marketing (Google, Facebook, Adcel) **1**
+- [ ] Custom Plugins (Annahme: Wurstify und Gewichtskategorien als neue Plugins) **Summe: 7 + TBD**
+   - [ ] Wurstify für Datenimport **TBD: Philipp**
+   - [ ] Umbau von JS-Lösung für Gewichtskategorien **7**
+- [ ] Frontend (Annahme: Aktuelles Theme MkF ist Grundlage, wird aber neu aufgesetzt) **Summe: 4**
+   - [ ] Integration von Kerkow-Design **2**
+   - [ ] Anpassung an neue Anforderungen **2**
+- [ ] Migration SEO/SEA (Annahme: Anpassung durch Adrien) **2**
 
-## Aufsetzen Shop
-- [ ] Infrastruktur & Technische Einstellungen 
-   - [ ] Account einrichten (Annahme: Hosted)
-   - [ ] Multiple Stores/Domains (Annahme für Übergangsphase: Separate Domains für Kerkow und MkF)
-   - [ ] Migration Settings (Annahme: Durchführung durch die Michaels)
-   - [ ] Migration Kundendaten (Annahmne: Kunden legen selbst neues Konto an)
-   - [ ] Migration Content
-- [ ] Installation Plugins 
-   - [ ] Versand (Parcelify, DHlExpress, DHLPost, Angel)
-   - [ ] Bezahlung (ShopifyPayments, Paypal)
-   - [ ] Datenimport (Wurstify)
-   - [ ] DSGVO (Concentsmo GDPR)
-   - [ ] Produktbewertung (ProductReviews)
-   - [ ] Fulfilment (OrderPrinter)
-   - [ ] Marketing (Google, Facebook, Adcel)
-   - [ ] Neue Plugins
-- [ ] Custom Plugins (Annahme: Wurstify und Gewichtskategorien als neue Plugins)
- - [ ] Wurstify
- - [ ] Gewichtskategorien
- - [ ] Frontend (Annahme: Aktuelles Theme MkF ist Grundlage, wird aber neu aufgesetzt)
-   - [ ] Integration von Kerkow-Design
-   - [ ] Anpassung an neue Anforderungen
- - [ ] Migration SEO/SEA (Annahme: Anpassung durch Adrien)
-
-## Staging und Teststrecken
-- [ ] Staging Server
-- [ ] Testkataloge entwickeln
-- [ ] Automatische Tests implementieren
+## Staging und Teststrecken (12)
+- [ ] Staging Server **2**
+- [ ] Test Server **2**
+- [ ] Testkataloge entwickeln **3**
+- [ ] Automatische Tests implementieren **5**
 
 ## GoLive
-- [ ] 
+- [ ] TODO
