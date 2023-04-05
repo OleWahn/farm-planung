@@ -1,10 +1,10 @@
 # Aufwandschätzung 
 Aufwände in Mann-Tagen
 ## Analyse und Planung (6)
-- [ ] Entwicklung neues Datenmodell  **5**
-- [ ] Gestaltungsentwurf UI (Annahme: Aktuelle Designs mit minimal nötigen Anpassung) **0**
-- [ ] Recherche Umsetzbarkeit Shopsystem (Annahme: Shopify) **0**
-- [ ] Recherche zusätzliche Plugins **1**
+- [ ] Entwicklung neues Datenmodell  ---- **5**
+- [ ] Gestaltungsentwurf UI (Annahme: Aktuelle Designs mit minimal nötigen Anpassung) ---- **0**
+- [ ] Recherche Umsetzbarkeit Shopsystem (Annahme: Shopify) ---- **0**
+- [ ] Recherche zusätzliche Plugins ---- **1**
  
 ## Aufsetzen Shop (23 + TBD)
 - [ ] Infrastruktur & Technische Einstellungen ---- **Summe: 4**
